@@ -8,6 +8,7 @@ import IgImg6 from '../../public/ig-img-6.jpeg';
 import InstagramImg from './InstagramImg';
 
 
+
 const Instagram = () => {
     return (
         <div className='max-w-[1240px] mx-auto text-center py-24'>
